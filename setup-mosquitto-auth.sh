@@ -1,6 +1,7 @@
 #!/bin/bash
 # Builds mosquitto and mosquitto-auth-plugin, based on:
 # http://www.kirang.in/2015/05/23/setting-up-acl-in-mosquitto-using-postgres
+# http://my-classes.com/2015/02/05/acl-mosquitto-mqtt-broker-auth-plugin/
 # Requires configuration in mosquitto.conf
 
 VERSION=1.4.5
